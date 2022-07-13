@@ -1,0 +1,17 @@
+com\example\demo2\Entity\CourseEntity.class
+com\example\demo2\Service\Impl\CourseImpl.class
+com\example\demo2\DTO\CourseDTO.class
+com\example\demo2\General\Gender.class
+com\example\demo2\DTO\RegistrationDTO.class
+com\example\demo2\Entity\StudentEntity.class
+com\example\demo2\Service\CourseService.class
+com\example\demo2\Repository\CourseRepo.class
+com\example\demo2\Entity\RegistrationEntity.class
+com\example\demo2\Controller\StudentController.class
+com\example\demo2\Controller\CourseController.class
+com\example\demo2\Converter\GenderConverter.class
+com\example\demo2\Repository\StudentRepo.class
+com\example\demo2\DTO\StudentDTO.class
+com\example\demo2\Service\Impl\StudentImpl.class
+com\example\demo2\Demo2Application.class
+com\example\demo2\Service\StudentService.class
